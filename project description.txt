@@ -1,0 +1,9 @@
+ C PROGRAM TO CREATE EMPLOYEE RECORD AND UPDATE IT.
+
+                 This is C program which is used to record the employee details,update and display it whenever required.
+                 This is comprised of files,structure.It consists of options as record,update,display and exit.
+                 The record section contains the name and id number.
+                 The update section contains the date to date update of a employee.
+                 The display section displays the details of employee it the detail is present otherwise it gives no output.
+                 
+                   
